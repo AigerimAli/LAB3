@@ -1,4 +1,4 @@
-html>
+<html>
 <body>
 <title> Aigerim Aliyeva 41884c79 </title>
 <h1> Welcome to my guessing game</h1>
